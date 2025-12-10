@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Daulet Zhaxybayev
+	email = d.zhaksybayev@kmic.kz
+# Please adapt and uncomment the following lines:
+#	name = Даулет Жаксыбаев
+#	email = iv_sed@MacBook-Pro-Zaksybaev.local
+[alias]
+	history = log --graph
